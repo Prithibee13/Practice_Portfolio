@@ -1,0 +1,59 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+.sky-color
+{
+    color : orange;
+}
+
+.header-text
+{
+    width: 50%;
+    padding-left: 2%;
+    
+}
+
+.header-text a 
+{
+    text-decoration: none;
+    
+    color: white;
+    background-image: linear-gradient(royalblue , purple);
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+
+}
+
+.header-text a:hover
+{
+    text-decoration: none;
+    
+}
+
+.site-header
+{
+    display: flex;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+
+}
+
+.header-img
+{
+    width: 50%;
+    padding-left: 2%;
+}
+
+.header-img img
+{
+    width: 80%;
+}
