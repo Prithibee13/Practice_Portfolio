@@ -76,6 +76,7 @@ h2
     display: flex;
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
+    margin-bottom: 150px;
 
 }
 
@@ -97,6 +98,7 @@ h2
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+    margin-bottom: 150px;
 }
 
 .dream-img
@@ -139,6 +141,7 @@ h2
 
 .exp-area
 {
+    margin-bottom: 150px;
     background-image: url("images/exp-bg.png") ;
     background-position: left;
     background-repeat: no-repeat;
